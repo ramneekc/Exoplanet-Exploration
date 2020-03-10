@@ -14,3 +14,4 @@ To help process this data, you will create machine learning models capable of cl
 ![](Images/Screenshot%20(88).png)  
 
 # Conclusion  
+Deep learning model came out to be the best model at classifying the exoplanets with a score of 0.8844 
